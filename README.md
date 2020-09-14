@@ -4,7 +4,8 @@ This is the a pracrice project from Google Africa Developer scholarship2020
 
 ScreenShots:
 ![Screenshot_20200914-152636](https://user-images.githubusercontent.com/64317588/93108005-36a6dd80-f6aa-11ea-8135-f73b07110f26.png)
-![Screenshot_20200914-152645](https://user-images.githubusercontent.com/64317588/93108478-be8ce780-f6aa-11ea-84ca-01fcdccee426.png)![Screenshot_20200914-152645](https://user-images.githubusercontent.com/64317588/93108617-f09e4980-f6aa-11ea-9b18-3ddd3efb3daf.png)
+![Screenshot_20200914-152645](https://user-images.githubusercontent.com/64317588/93108478-be8ce780-f6aa-11ea-84ca-01fcdccee426.png) 
+![Screenshot_20200914-152657](https://user-images.githubusercontent.com/64317588/93108814-2e02d700-f6ab-11ea-9ccf-ec892eb7dce7.png)
 
 It aims to test candidate proficiency in :
 >>MilitiActiviry usage
