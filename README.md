@@ -2,7 +2,8 @@
 Google Africa Developer Schorlarship 2020(PHASE II)Project
 This is the a pracrice project from Google Africa Developer scholarship2020
 
-![Uploading 20200912_171118.gif…]()
+ScreenShots:
+![Screenshot_20200914-152636](https://user-images.githubusercontent.com/64317588/93108005-36a6dd80-f6aa-11ea-8135-f73b07110f26.png)
 
 It aims to test candidate proficiency in :
 >>MilitiActiviry usage
