@@ -9,7 +9,7 @@ ScreenShots:
 
 ![Screenshot_20200914-154048](https://user-images.githubusercontent.com/64317588/93109197-a8335b80-f6ab-11ea-8b07-0595cd74bd51.png)
 
-It aims to test candidate proficiency in 
+It aims to test candidate proficiency in : 
 * MilitiActiviry usage
 * HTTP request 
 * JSON parsing 
@@ -17,7 +17,7 @@ It aims to test candidate proficiency in
 * Integration of Google Forms
 * Taking reaponses feom useruser Via Http
 
-##Dependcies :
+## Dependcies :
 * Gradle 6.1.1
 * SDk 23
 * Retrofit 1.2
