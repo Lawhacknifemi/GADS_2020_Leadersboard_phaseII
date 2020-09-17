@@ -10,18 +10,18 @@ ScreenShots:
 ![Screenshot_20200914-154048](https://user-images.githubusercontent.com/64317588/93109197-a8335b80-f6ab-11ea-8b07-0595cd74bd51.png)
 
 It aims to test candidate proficiency in :
->>MilitiActiviry usage
->>HTTP request 
->>JSON parsing 
->>Tablayout with ViewPager
->>Integration of Google Forms
->>Taking reaponses feom useruser Via Http
+*MilitiActiviry usage
+*HTTP request 
+*JSON parsing 
+*Tablayout with ViewPager
+*Integration of Google Forms
+*Taking reaponses feom useruser Via Http
 
-Dependcies :
-Gradle 6.1.1
-SDk 23
-Retrofit 1.2
-❤
+##Dependcies :
+*Gradle 6.1.1
+*SDk 23
+*Retrofit 1.2
+#❤
 
 
 
